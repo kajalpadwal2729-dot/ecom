@@ -1,1 +1,1 @@
-agile methodology
+agile methodology used in jira 
