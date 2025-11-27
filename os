@@ -1,1 +1,1 @@
-OS stand 
+OS stand operating system. 
