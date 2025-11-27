@@ -1,1 +1,1 @@
-java is a high-level,object oriented programmimg language.
+java is a high-level,object oriented programmimg language.cross-platform application.
